@@ -4,7 +4,7 @@ Automate which create a Word document with autofill the data from data source (E
 Holiday Request Generator
 This project automates the creation of personalized holiday request documents in Microsoft Word format using data from an Excel spreadsheet and a Word template.
 
-📂 Project Structure
+Project Structure
 ├── vacation.xlsx           # Excel file with employee vacation data
 ├── vacation.docx           # Word template with placeholders
 ├── holiday_requests/       # Output folder for generated Word documents
